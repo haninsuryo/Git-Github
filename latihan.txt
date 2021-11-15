@@ -1,0 +1,11 @@
+-- Melakukan Git Remote --
+
+1. Pilih Repository dari Github yang akan diremote
+2. Copy link HTTPS dari repository Github
+3. Hubungkan Git dengan Github menggunakan command : git clone <link>
+4. Menambahkan file atau perubahan apapun menggunakan command penting : git add <nama file> atau git add . 
+5. Menyimpan permanen dalam repository menggunakan command : git commit -m <"komentar">
+6. Mengirimkan perubahan ke Github menggunakan command : git push 
+(silahkan di login apabila belum terhubung)
+ 
+..........
