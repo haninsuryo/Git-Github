@@ -1,0 +1,17 @@
+-- Deployment Heroku --
+
+Create new app di heroku
+Kemudian ketik command berikut:
+- git clone <link github>
+- heroku login
+- heroku git:remote -a <nama app>
+- git add .
+- git commit -am <"beri komentar">
+- git push heroku <nama branch>
+Cek web app yang sudah dibuat melalui <nama app>.herokuapp.com
+
+https://satin-rugby-b83.notion.site/Deploy-Linear-Regression-di-Web-menggunakan-6fc473008b7545b2868056d852d67ed8
+
+https://dashboard.heroku.com/apps
+https://test-linearreg.herokuapp.com/predict
+https://github.com/jumadi-cloud/dts-linreg
